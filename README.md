@@ -69,8 +69,8 @@ We will provide reasonable accommodations to students with disabilities. If this
 
 ### Class Schedule
 
-01/09/2023 (1) Visualization and color  
-01/16/2023 (2) Course intro. Unix skills.  
+01/09/2023 (1) [Visualization and color](https://docs.google.com/presentation/d/1OsDmRKvbfmQnROLk8DDxSWyR-TR8A-hwnsXZf0Xy-JA/edit?usp=sharing)  
+01/16/2023 (2) [Course intro. Unix skills.](https://docs.google.com/presentation/d/1gum_kmylz6Nw653mR31H6zasVyg3hyDlj52ZyI3Ixws/edit?usp=sharing)  
 01/23/2023 (3) Unix Skills. Version Control & Git I  
 01/30/2023 (4) Version control & Git II  
 02/06/2023 (5) Searching files and genome arithmetic.  
