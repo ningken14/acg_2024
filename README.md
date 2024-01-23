@@ -71,7 +71,7 @@ We will provide reasonable accommodations to students with disabilities. If this
 
 01/09/2023 (1) [Visualization and color](https://docs.google.com/presentation/d/1OsDmRKvbfmQnROLk8DDxSWyR-TR8A-hwnsXZf0Xy-JA/edit?usp=sharing)  
 01/16/2023 (2) [Course intro. Unix skills.](https://docs.google.com/presentation/d/1gum_kmylz6Nw653mR31H6zasVyg3hyDlj52ZyI3Ixws/edit?usp=sharing)  
-01/23/2023 (3) Unix Skills. Version Control & Git I  
+01/23/2023 (3) [Unix Skills. Version Control & Git I](https://docs.google.com/presentation/d/1ld3uKluegJVal4lo062kN8CoFmpFxZA3ird1o2Xughs/edit?usp=sharing)
 01/30/2023 (4) Version control & Git II  
 02/06/2023 (5) Searching files and genome arithmetic.  
 02/13/2023 (6) Advanced Search.  
