@@ -29,4 +29,4 @@ Download the dataset called `breast_cancer` (be exact: there are several breast 
 
 10. How many characters are there in the column 'tumor-size'? (hint: use `cut` to isolate the tumor size column, and a pipe `|` to direct the output of this command to an appropriate call of `wc`) (show work)
 
-11. The `sort` command is very useful. Use the `man` page to determine how you would find all the unique values that "tumor-size" can have in this dataset. Using a strategy similar to the previous problem, what are all the unique values in the tumor-size column? (show work)
+11. The `sort` command is very useful. Use the `man` page to determine how you would find all the unique values that "tumor-size" can have in this dataset. Using a strategy similar to the previous problem, what are all the unique values in the tumor-size column? (hint: string together 3 commands with 2 pipes) (show work)
