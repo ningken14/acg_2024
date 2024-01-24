@@ -18,6 +18,8 @@ Nearly every command in GNU has a manual, documentation that tells you all the f
 
 5. Using `man`, see if you can determine what the `cut` program does? (no answer required)
 
+## wc, sort, and cut
+
 6. In a web browser, navigate to the following page on Github, which has lots of example datasets people use for machine learning: https://github.com/EpistasisLab/pmlb/tree/master/datasets
 Download the dataset called `breast_cancer` (be exact: there are several breast cancer datasets!). You should have a spread sheet in "tab separated values" format (".tsv"). First take a peek at the data using `less`. Use `head` to display the first line only, paste the output of the terminal interaction below.
 
