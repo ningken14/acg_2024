@@ -88,7 +88,10 @@ We will provide reasonable accommodations to students with disabilities. If this
 [Atlassian Git course on Coursera](https://www.coursera.org/learn/version-control-with-git)  
 [git documentation](https://git-scm.com/docs)  
 
-#### 01/30/2023 (4) Version control & Git II  
+#### 01/30/2023 (4) [Version control & Git II](https://docs.google.com/presentation/d/1uRXryh2TLnAxYgxDNO8o5d_gbp0kIApa5HS1MkAjxb4/edit?usp=sharing)  
+##### Resources:  
+[Article: What is version control?](https://resources.pcb.cadence.com/blog/what-is-a-version-control-system)  
+[Poetry Foundation: "The Jabberwocky" (by Lewis Carroll)](https://www.poetryfoundation.org/poems/42916/jabberwocky)  
 02/06/2023 (5) Searching files and genome arithmetic.  
 02/13/2023 (6) Advanced Search.  
 02/20/2023 (7) NGS File formats. IGV. Key resources.  
