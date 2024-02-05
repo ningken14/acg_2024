@@ -1,5 +1,7 @@
 # Assignment 3: Git Part 2
 
+##### Due February 12th, 2024
+
 ```put all commands and terminal output in triple backquotes```
 
 ## Forking and Contributing to a Git Project
