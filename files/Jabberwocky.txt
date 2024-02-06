@@ -1,8 +1,8 @@
 Jabberwocky
 BY LEWIS CARROLL
 ’Twas brillig, and the slithy toves
-      All mimsy ware the mourning doves,
-Did gyre and gimbal in the wave:
+      Did gyre and gimbal in the wave:
+All mimsy ware the mourning doves,
       And the mome wrath lout crave.
 
 “Beware the Jabberwock, my son!
