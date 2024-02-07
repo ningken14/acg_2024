@@ -1,8 +1,0 @@
-sample  treatment
-AR.1    vehicle
-AR.2    vehicle
-AR.3    vehicle
-AR.DHT.1    DHT
-AR.DHT.2    DHT
-AR.DHT.3    DHT
-
