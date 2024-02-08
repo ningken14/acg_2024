@@ -3,7 +3,7 @@ Winter Trimester 2024
 
 ## Course Description
 
-The goal of this course is to initiate bench scientists on the Ph.D. track to basic the basic skillset in bioinformatics and computational genomics. These skills are a prerequisite to a wide range of fields in modern molecular biology and are often overlooked. During this course we will acquire basic computer literacy needed to perform analyses of next generation sequencing experiments in all their modern forms. We will cover basic unix, project management with version control, principal components and clustering, visualization and color, single cell technologies, spatial omics, microbiome, and a brief survey of the fundamentals of Machine Learning. We will empower students with basic skills to advocate for and analyze their own data.
+The goal of this course is to initiate bench scientists on the Ph.D. track to master basic skills in bioinformatics and computational genomics. These skills are a prerequisite to a wide range of fields in modern molecular biology and are often overlooked. During this course we will acquire basic computer literacy needed to perform analyses of next generation sequencing experiments in all their modern forms. We will cover basic unix, project management with version control, principal components and clustering, visualization and color, single cell technologies, spatial omics, microbiome, and a brief survey of the fundamentals of Machine Learning. We will empower students with basic skills to advocate for and analyze their own data.
 
 ### Course Director  
 Dennis Hazelett, PhD  
@@ -19,7 +19,7 @@ Ivan Vujkovic-Cvijin (Ivan.Vujkovic-Cvijin at csmc.edu)
 Kyoung-Jae Won (KyoungJae.Won at cshs.org)  
 Ryan Urbanowicz
 
-Time: 9:00 AM – 10:30 AM Tuesdays (students to be invited by outlook calendar)
+Time: 9:00 AM – 10:30 AM Tuesdays (outlook calendar invitation)
 
 Location: Picasso Room PDCG
 
@@ -39,7 +39,7 @@ Classes are held every Tuesday from 9:00-10:30 AM in Picasso on the 5th floor of
 
 ### Expectations
 
-Attendance is required no exceptions. You may obtain permission ahead of time or with extenuating circumstances after the fact from the graduate school (email to Emma Yates Kassler). Homework assignments are required on time (see schedule below) regardless of attendance or for half credit one lecture late. Unexcused absences result in an incomplete grade.
+Attendance is required no exceptions. You may obtain permission ahead of time or with extenuating circumstances after the fact from the graduate school (email to Emma Yates-Kassler). Homework assignments are required on time (see schedule below) regardless of attendance or for half credit one lecture late. Unexcused absences result in an incomplete grade.
 
 After each lecture, a link will be posted to provide feedback. Attendance will be recorded by the completion of the "5-minute feedback". There will be three questions, with space for brief answers:
 
