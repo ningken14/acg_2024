@@ -41,9 +41,9 @@ opts_chunk$set(cache=TRUE, fig.width=12, fig.height=6)
 knitr::opts_knit$set(root.dir = '~/lecture5')
 ```
 
-## **Searching NGS File Formats and Genome Arithmetic**
+## **Searching NGS File Formats**
 
-<small>This work, "Searching NGS File Formats", is a derivative of ["Intro to Shell"](https://hbctraining.github.io/Intro-to-Shell/) by hbctraining, used under [CC BY](https://creativecommons.org/licenses/by/4.0/) and is a derivative of part of ["Applied Computational Genomics Course at UU"](https://github.com/quinlan-lab/applied-computational-genomics) by quinlan-lab, and ["bedtools Tutorial"](http://quinlanlab.org/tutorials/bedtools/bedtools.html) by quinlan-lab used under [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/). "Searching NGS File Formats and Genome Arithmetic" is licensed under [CC BY](https://creativecommons.org/licenses/by/4.0/) by Simon Coetzee.</small>
+<small>This work, "Searching NGS File Formats", is a derivative of ["Intro to Shell"](https://hbctraining.github.io/Intro-to-Shell/) by hbctraining, used under [CC BY](https://creativecommons.org/licenses/by/4.0/) and is a derivative of part of ["Applied Computational Genomics Course at UU"](https://github.com/quinlan-lab/applied-computational-genomics) by quinlan-lab. "Searching NGS File Formats" is licensed under [CC BY](https://creativecommons.org/licenses/by/4.0/) by Simon Coetzee.</small>
 
 Goals (grep and redirection)
 ========================================================

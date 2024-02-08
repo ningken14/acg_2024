@@ -38,9 +38,9 @@ height: 900
 transition: fade
 
 
-## **Searching NGS File Formats and Genome Arithmetic**
+## **Searching NGS File Formats**
 
-<small>This work, "Searching NGS File Formats", is a derivative of ["Intro to Shell"](https://hbctraining.github.io/Intro-to-Shell/) by hbctraining, used under [CC BY](https://creativecommons.org/licenses/by/4.0/) and is a derivative of part of ["Applied Computational Genomics Course at UU"](https://github.com/quinlan-lab/applied-computational-genomics) by quinlan-lab, and ["bedtools Tutorial"](http://quinlanlab.org/tutorials/bedtools/bedtools.html) by quinlan-lab used under [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/). "Searching NGS File Formats and Genome Arithmetic" is licensed under [CC BY](https://creativecommons.org/licenses/by/4.0/) by Simon Coetzee.</small>
+<small>This work, "Searching NGS File Formats", is a derivative of ["Intro to Shell"](https://hbctraining.github.io/Intro-to-Shell/) by hbctraining, used under [CC BY](https://creativecommons.org/licenses/by/4.0/) and is a derivative of part of ["Applied Computational Genomics Course at UU"](https://github.com/quinlan-lab/applied-computational-genomics) by quinlan-lab. "Searching NGS File Formats" is licensed under [CC BY](https://creativecommons.org/licenses/by/4.0/) by Simon Coetzee.</small>
 
 Goals (grep and redirection)
 ========================================================
@@ -479,6 +479,55 @@ We can try to include the `"` marks in our search to isolate just the string `"A
 $ grep -w gene gencode.v39.annotation.gtf | grep \"ATP5MF\"
 chr7	HAVANA	gene	99448475	99466186	.	-	.	gene_id "ENSG00000241468.8"; gene_type "protein_coding"; gene_name "ATP5MF"; level 2; hgnc_id "HGNC:848"; tag "overlapping_locus"; havana_gene "OTTHUMG00000154609.7";
 ```
+Advanced GREP
+========================================================
+## Just so you know it's there - regular expressions can be even more powerful:
+There are certain meta-characters that are reserved in regex:
+```
+^: matches pattern at start of string
+$: matches pattern at end of string
+.: matches any character except new lines
+[]: matches any of enclose characters
+[^]: matches any characters *except* ones enclosed (note: is different from ^)
+\: "escapes" meta-characters, allows literal matching
+```
+
+Advanced GREP
+========================================================
+One can do some quite sophisticated searching with grep using regular expressions. 
+For these kinds of searches one can use "extended" grep or `egrep`.
+I'll use screenshots here to show what is being matched with color:
+
+One can match a certain number of characters with `{x,y}`. Here we are looking 
+for matches of any string of C’s and/or G’s that is six to twelve characters 
+long using the pattern `[GC]{6,12}`.
+
+<center>
+![](grepGC.png)
+</center>
+
+Advanced GREP
+========================================================
+## `+` The most prominent repetition modifier
+Instead of asking for a specific length of match, one can ask for at least one
+match using the special symbol `+`
+
+As an example we can search for a start codon `ATG` followed by any number of 
+bases (at least one), and ending with a stop codon `TGA` using the pattern `ATG[ATGC]+TGA`
+
+<center>
+![](grepPlus.png)
+</center>
+
+Advanced GREP
+========================================================
+We can also search for repetitive strings, where we want to search for the whole group of characters, not just one or two.
+
+Here we search for `CAG` repeats between six and twelve repeats long with the pattern `(CAG){6,12}`. You'll note that we used parentheses instead of square brackets here.
+
+<center>
+![](grepCAG.png)
+</center>
 
 Bonus: Cheating at wordle
 ========================================================
