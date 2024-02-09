@@ -88,6 +88,6 @@ This strategy is not required but may be helpful to solve the following problems
 
 ### EXTRA CREDIT
 
-##### A. Using any of the methods you've learned, how many variants in the file `gwas.bed` start with the letters exactly matching "rs1234"? (2 pts)
+##### A. Using any of the methods you've learned, how many variants in the file `gwas.bed` start with the letters exactly matching "rs1234"? (2 pts)  
 
-##### B. Solve any Wordle puzzle using grep. Show your guesses, the responses, and the commands you use to solve it. (2 pts)
+##### B. Solve any Wordle puzzle using grep. Show your guesses, the responses, and the commands you use to solve it. (2 pts)  
