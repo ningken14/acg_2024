@@ -93,12 +93,16 @@ We will provide reasonable accommodations to students with disabilities. If this
 [Article: What is version control?](https://resources.pcb.cadence.com/blog/what-is-a-version-control-system)  
 [Poetry Foundation: "The Jabberwocky" (by Lewis Carroll)](https://www.poetryfoundation.org/poems/42916/jabberwocky)  
 
-#### 02/06/2023 (5) [Searching files with grep, cut, and sort.](https://raw.githubusercontent.com/Junkdnalab/acg_2024/main/lectures/lecture5/file_searching_lecture5.html)  
+#### 02/06/2023 (5) [Searching files with grep, cut, and sort.](https://junkdnalab.github.io/acg_2024/lectures/lecture5/file_searching_lecture5.html)  
 
 ##### Resources:  
 [The best video to introduce a computational biology course.](https://twitter.com/PhillipCompeau/status/1674131281679097856)  
 
-02/13/2023 (6) Advanced Search.  
+#### 02/13/2023 (6) [Genome Arithmetic with bedtools + advanced grep and awk](https://junkdnalab.github.io/acg_2024/lectures/lecture6/file_searching.html#/)
+
+##### Homework
+[Homework for bedtools and GenomicRanges](https://junkdnalab.github.io/acg_2024/assignments/assignment_06.md)
+
 02/20/2023 (7) NGS File formats. IGV. Key resources.  
 02/27/2023 (8) Single cell I  
 03/05/2023 (8) Single cell II  
