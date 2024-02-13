@@ -1404,7 +1404,7 @@ AWK knows about line numbers too
 Going further we can add in a logical `OR` operator and group the sub-statements too
 
 ```
-$ awk '(NR >= 100 && NR <= 200) || ($1 == "chr18)'
+$ awk '(NR >= 100 && NR <= 200) || ($1 == "chr18")' cpg.bed
 chr1    1417285 1417753 CpG:_42
 chr1    1420226 1420684 CpG:_34
 chr1    1444588 1444849 CpG:_19
