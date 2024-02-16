@@ -5,7 +5,7 @@
 ---
 
 ##### <i>Directions  
-Show all work. Write complete and coherent answers. Correct answers alone will yield partial credit. Each question is worth 4 points unless otherwise indicated (total 40 pts).  </i>
+Show all work. Write complete and coherent answers. Where possible or reasonable, you should show the commands you entered and resulting terminal output. It is acceptable to truncate some outputs to a reasonable length of a few lines. Correct answers alone will yield partial credit. Each question is worth 4 points unless otherwise indicated (total 40 pts).  </i>
 
 <b><i>Put single lines of shell code inside single quotes, e.g.:</b></i>  
 
