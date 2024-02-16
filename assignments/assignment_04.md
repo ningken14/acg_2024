@@ -23,7 +23,7 @@ $
 
 ## using cut and sort  
 
-##### 1. Delimiters. In the data folder we downloaded in lecture 5, there's a .gtf file containing the annotations of chromosome 1 from HG19. How many tab-delimited fields are there in this file? (hint: In Rstudio go to Edit>Settings. Choose "Code", and then the "Display" tab. Check the box next to "Show whitespace characters".)  
+##### 1. Delimiters. In the data folder we downloaded in lecture 5, there's a .gtf file containing the annotations of chromosome 1 from HG19. How many tab-delimited fields are there in this file? (hint: In Rstudio go to Edit>Settings. Choose "Code", and then the "Display" tab. Check the box next to "Show whitespace characters". If you are using a VM, Tools>Global Options>Code>Display)  
 
 a. The GTF file is too large to load in Rstudio. Use `head` and redirect `>` to make a snippet of the file called `snippet.gtf` with 20 lines.  
 b. Open `snippet.gtf` in Rstudio. What types of whitespace characters can you find?  
@@ -39,7 +39,7 @@ c. Use a similar strategy combined with `sort` and `wc` to determine the number 
 
 a. What are the unique annotations present in field 3 of the chromosome 1 file?  
 b. How many of each annotation are present in the file?  
-c. What are the unique annotations in field 5 of the last field (9) of the chromosome 1 gtf file?  
+c. Considering only the gene annotations, what are the unique annotations in field 5 of the last field (9) of the chromosome 1 gtf file?  
 
 ---
 

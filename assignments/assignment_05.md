@@ -50,3 +50,26 @@ Which hESC ChromHMM state (e.g., `11_Weak_Txn`, `10_Txn_Elongation`) represents 
 
 ***
 
+### Question #9
+Correct the following command so that it completes:
+awk '(NR >= 100 && NR <= 200) || ($1 == "chr18)' cpg.bed
+
+***
+
+### Question #10
+Correct the following command so that it completes:
+egrep --color=always "ATC[ATGC+TGA" Mov10_oe_1.subset.fq | head
+
+***
+
+### Question #11
+Correct the following command to copy the genome.txt file into the current directory:
+cp ~/data/genome.txt
+
+***
+
+### Question #12
+Correct the following command to copy the directory ~/data into the directory ~/lecture6:
+cp ~/data ~/lecture6
+
+***
