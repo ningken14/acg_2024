@@ -39,7 +39,7 @@ c. Use a similar strategy combined with `sort` and `wc` to determine the number 
 
 a. What are the unique annotations present in field 3 of the chromosome 1 file?  
 b. How many of each annotation are present in the file?  
-c. Considering only the gene annotations, what are the unique annotations in field 5 of the last field (9) of the chromosome 1 gtf file?  
+c. Considering only the gene annotations, what are the unique annotations in field 5 (assuming the fields are split by spaces, the field number differs if semicolons) of the last field (9) of the tab-separated chromosome 1 gtf file?  
 
 ---
 
