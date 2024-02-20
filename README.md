@@ -107,7 +107,8 @@ We will provide reasonable accommodations to students with disabilities. If this
 
 ![compiling](https://imgs.xkcd.com/comics/compiling.png)
 
-02/20/2023 (7) NGS File formats. IGV. Key resources.  
+#### 02/20/2023 (7) [NGS and File Formats](https://junkdnalab.github.io/acg_2024/lectures/lecture7/file_formats.html#/)
+
 02/27/2023 (8) Single cell I  
 03/05/2023 (8) Single cell II  
 03/12/2023 (9) Single Cell III  
