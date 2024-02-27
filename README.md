@@ -12,7 +12,6 @@ G-577 Pacific Design Center, Green bldg.
 West Hollywood  
 Office: (424) 315-4412  
 Dennis.hazelett at csmc.edu
-
 ### Instructors and guest lecturers:  
 Simon Coetzee (simon.coetzee at csmc.edu)  
 Ivan Vujkovic-Cvijin (Ivan.Vujkovic-Cvijin at csmc.edu)   
@@ -101,13 +100,22 @@ We will provide reasonable accommodations to students with disabilities. If this
 #### 02/13/2023 (6) [Genome Arithmetic with bedtools + advanced grep and awk](https://junkdnalab.github.io/acg_2024/lectures/lecture6/file_searching.html#/)
 
 ##### Homework
-[Homework for bedtools and GenomicRanges](https://junkdnalab.github.io/acg_2024/assignments/assignment_06.md)
+[Homework for bedtools and GenomicRanges](https://junkdnalab.github.io/acg_2024/assignments/assignment_05.md)
 
 [feedback form](https://docs.google.com/forms/d/e/1FAIpQLSeVyqBMXe086HcmxI0v5yeMhG3P41t2Gwsze6q5e9PXZV_Gdw/viewform?usp=sf_link)
 
 ![compiling](https://imgs.xkcd.com/comics/compiling.png)
 
 #### 02/20/2023 (7) [NGS and File Formats](https://junkdnalab.github.io/acg_2024/lectures/lecture7/file_formats.html#/)
+
+#### 02/20/2023 (8) [Sprint Through scRNA Analysis](https://junkdnalab.github.io/acg_2024/lectures/lecture8/scrna_sprint.html)
+
+##### Analysis File
+
+[analysis_lecture8.R](https://junkdna.github.io/acg_2024/files/analysis_lecture8.R)
+
+##### Homework
+[Homework for File Formats](https://junkdnalab.github.io/acg_2024/assignments/assignment_06.md)
 
 02/27/2023 (8) Single cell I  
 03/05/2023 (8) Single cell II  
