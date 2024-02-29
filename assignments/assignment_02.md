@@ -1,10 +1,12 @@
 # Assignment 2: More unix commands and a little git
 
-```put all commands and terminal output in triple backquotes```
+```
+sandwich blocks of commands and terminal output in triple backquotes like this
+```
 
 ## Git
 
-1. Either download or create a copy of this file in the repository we created in class. "Add" the file by checking the appropriate box in the git tab of rstudio. Then commit and push to remote. Make a commit message that records the fact that this file has not been worked on (by you) yet.
+1. Either download or create a copy of this file in the special homework repository we created in class (not the class repository, _i.e._ `acg_2024`!). "Add" the file by checking the appropriate box in the git tab of rstudio. Then commit and push to remote. Make a commit message that records the fact that this file has not been worked on (by you) yet.
 
 2. Open the newly created homework file in your homework repo within rstudio. Complete the rest of this assignment. When you're finally ready to finally hand it in, add, commit (with appropriate message) and push. If you need to make an edit before the deadline, you can repeat the commit cycle making a comment in the commit message.
 
