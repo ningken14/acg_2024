@@ -118,7 +118,11 @@ We will provide reasonable accommodations to students with disabilities. If this
 [Homework for File Formats](https://junkdnalab.github.io/acg_2024/assignments/assignment_06.md)
 
 02/27/2023 (8) Single cell I  
-03/05/2023 (8) Single cell II  
+
+#### 03/05/2023 (8) Single cell II  
+
+[PCA short lecture](https://docs.google.com/presentation/d/1g0hFymDUAOooExDDpyZzSk5NA6TssYy-L0GXDEXFS1w/edit?usp=sharing).  
+
 03/12/2023 (9) Single Cell III  
 03/19/2023 (10) Spatial Omics I  
 03/26/2023 (11) Spatial Omics II  
