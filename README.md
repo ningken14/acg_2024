@@ -121,10 +121,13 @@ We will provide reasonable accommodations to students with disabilities. If this
 
 #### 03/05/2023 (8) Single cell II  
 
-[PCA short lecture](https://docs.google.com/presentation/d/1g0hFymDUAOooExDDpyZzSk5NA6TssYy-L0GXDEXFS1w/edit?usp=sharing).  
+[PCA short lecture (slides)](https://docs.google.com/presentation/d/1g0hFymDUAOooExDDpyZzSk5NA6TssYy-L0GXDEXFS1w/edit?usp=sharing).  
 
 03/12/2023 (9) Single Cell III  
 03/19/2023 (10) Spatial Omics I  
+
+[Spatial Transcriptomics (slides)](https://docs.google.com/presentation/d/12JKPp_P1IWG0nzy9O0aFbKNnfm2adO5-/edit#slide=id.p1).  
+
 03/26/2023 (11) Spatial Omics II  
 04/02/2023 (11) Introduction to microbiome analysis  
 04/09/2023 (12) Microbiome analysis I  
