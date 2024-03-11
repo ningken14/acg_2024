@@ -124,9 +124,11 @@ We will provide reasonable accommodations to students with disabilities. If this
 [PCA short lecture (slides)](https://docs.google.com/presentation/d/1g0hFymDUAOooExDDpyZzSk5NA6TssYy-L0GXDEXFS1w/edit?usp=sharing).  
 
 03/12/2023 (9) Single Cell III  
-03/19/2023 (10) Spatial Omics I  
+
+#### 03/19/2023 (10) Spatial Omics I  
 
 [Spatial Transcriptomics (slides)](https://docs.google.com/presentation/d/12JKPp_P1IWG0nzy9O0aFbKNnfm2adO5-/edit#slide=id.p1).  
+[Visium dataset (google drive link)](https://drive.google.com/file/d/1mg-PnQr-6yprEd18kCbmNa4OO7q9Zl2B/view).  
 
 03/26/2023 (11) Spatial Omics II  
 04/02/2023 (11) Introduction to microbiome analysis  
