@@ -508,6 +508,7 @@ FeaturePlot(seurat_integrated,
 #                      logfc.threshold = 0.25)
 
 # Test on one cluster
+seurat_integrated[["RNA"]] <- JoinLayers(seurat_integrated[["RNA"]])
 cluster0_conserved_markers <- FindConservedMarkers(seurat_integrated,
                                                    ident.1 = 0,
                                                    grouping.var = "sample",
