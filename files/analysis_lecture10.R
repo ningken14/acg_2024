@@ -416,7 +416,7 @@ FeaturePlot(seurat_integrated,
 # Defining the information in the seurat object of interest
 columns <- c(paste0("PC_", 1:16),
              "ident",
-             "UMAP_1", "UMAP_2")
+             "umap_1", "umap_2")
 
 ## Exploration of the PCs driving the different clusters
 # Extracting this data from the seurat object
@@ -424,17 +424,17 @@ pc_data <- FetchData(seurat_integrated,
                      vars = columns)
 # Adding cluster label to center of cluster on UMAP
 umap_label <- FetchData(seurat_integrated, 
-                        vars = c("ident", "UMAP_1", "UMAP_2"))  %>%
+                        vars = c("ident", "umap_1", "umap_2"))  %>%
   group_by(ident) %>%
-  summarise(x=mean(UMAP_1), y=mean(UMAP_2))
+  summarise(x=mean(umap_1), y=mean(umap_2))
 
 # Plotting a UMAP plot for each of the PCs
 map(paste0("PC_", 1:16), function(pc){
   ggplot(pc_data, 
-         aes(UMAP_1, UMAP_2)) +
+         aes(umap_1, umap_2)) +
     geom_point(aes_string(color=pc), 
                alpha = 0.7) +
-    scale_color_viridis_c(guide = FALSE, option = "E", direction = -1)  +
+    scale_color_viridis_c(guide = "none", option = "E", direction = -1)  +
     geom_text(data=umap_label, 
               aes(label=ident, x, y)) +
     ggtitle(pc)
