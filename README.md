@@ -134,9 +134,11 @@ We will provide reasonable accommodations to students with disabilities. If this
 #### 03/19/2023 (10) Spatial Omics I  
 
 [Spatial Transcriptomics (slides)](https://docs.google.com/presentation/d/12JKPp_P1IWG0nzy9O0aFbKNnfm2adO5-/edit#slide=id.p1).  
-[Visium dataset (google drive link)](https://drive.google.com/file/d/1mg-PnQr-6yprEd18kCbmNa4OO7q9Zl2B/view).  
+[Visium dataset (google drive link)](https://drive.google.com/file/d/1mg-PnQr-6yprEd18kCbmNa4OO7q9Zl2B/view). 
 
-03/26/2023 (11) Spatial Omics II  
+#### 03/26/2023 (11) Spatial Omics II  
+[Spatial Omics II - Course Pack](https://github.com/Junkdnalab/acg_2024/blob/main/files/spatial_omics.zip)
+
 04/02/2023 (11) Introduction to microbiome analysis  
 04/09/2023 (12) Microbiome analysis I  
 04/16/2023 (13) Microbiome analysis II  
