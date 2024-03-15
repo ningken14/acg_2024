@@ -123,7 +123,7 @@ We will provide reasonable accommodations to students with disabilities. If this
 
 [PCA short lecture (slides)](https://docs.google.com/presentation/d/1g0hFymDUAOooExDDpyZzSk5NA6TssYy-L0GXDEXFS1w/edit?usp=sharing).  
 
-03/12/2023 (9) Single Cell III  
+#### 03/12/2023 (9) Single Cell III  
 
 [Analysis File](https://github.com/Junkdnalab/acg_2024/blob/main/files/analysis_lecture10.R)
 
@@ -142,5 +142,3 @@ We will provide reasonable accommodations to students with disabilities. If this
 04/02/2023 (11) Introduction to microbiome analysis  
 04/09/2023 (12) Microbiome analysis I  
 04/16/2023 (13) Microbiome analysis II  
-04/23/2023 (14) Fundamentals of Machine Learning I  
-04/30/2023 (15) Fundamentals of Machine Learning II
