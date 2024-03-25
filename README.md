@@ -139,6 +139,30 @@ We will provide reasonable accommodations to students with disabilities. If this
 #### 03/26/2023 (11) Spatial Omics II  
 [Spatial Omics II - Course Pack](https://github.com/Junkdnalab/acg_2024/blob/main/files/spatial_omics.zip)
 
+As soon as possible please run the following commands:
+In the terminal (not the R Console)
+```
+sudo apt update
+sudo apt install patch
+```
+Then run these in the R Console:
+```
+BiocManager::install(c("devtools", "hdf5r"))
+BiocManager::install("patrickCNMartin/Vesalius")
+```
+If you see the following:
+```
+These packages have more recent versions available.
+It is recommended to update all of them.
+Which would you like to update?
+
+1: All                          
+2: CRAN packages only           
+3: None
+```
+select `1`: All
+
+
 04/02/2023 (11) Introduction to microbiome analysis  
 04/09/2023 (12) Microbiome analysis I  
 04/16/2023 (13) Microbiome analysis II  
