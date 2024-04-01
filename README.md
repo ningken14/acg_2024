@@ -140,6 +140,9 @@ We will provide reasonable accommodations to students with disabilities. If this
 [Spatial Omics II - Course Pack](https://github.com/Junkdnalab/acg_2024/blob/main/files/spatial_omics.zip)
 
 As soon as possible please run the following commands:
+
+(This is for Mimas) for other machines the terminal code may be different.
+
 In the terminal (not the R Console)
 ```
 sudo apt update
