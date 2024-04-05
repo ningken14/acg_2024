@@ -166,6 +166,24 @@ Which would you like to update?
 select `1`: All
 
 
-04/02/2023 (11) Introduction to microbiome analysis  
+04/02/2023 (11) Introduction to microbiome analysis 
+
+Assignment:
+Read the [Dada2 tutorial](https://benjjneb.github.io/dada2/tutorial.html), and instead of performing it on the dataset described in the tutorial, perform it on the [following dataset](https://cedars.box.com/s/e1o0uvlu946ezug04u2aeshep6e4zlvc) all the way up to and including section “Assign taxonomy”.
+This dataset comprises FASTQ files of 16S rRNA sequencing data from a cohort of C. difficile-infected patients which we will analyze in the next class. 
+
+To capture all your outputs, set a path to your desired output directory and run the following commands after performing the Dada2 tutorial:
+```
+outpath<-"~/path/to/your/output/directory/"
+write.table(table(nchar(getSequences(seqtab))), paste(outpath,"/table_nchar.xls",sep=""),sep="\t")
+saveRDS(seqtab, paste(outpath,"/seqtab.rds",sep=""))
+write.csv(t(seqtab), paste(outpath,"/seqtab.csv",sep=""))
+write.csv(rowSums(seqtab.nochim)[order(rowSums(seqtab.nochim))],file=paste(outpath, "/biomsummary.csv",sep=""))
+write.csv(taxa, paste(outpath,"/taxa.csv",sep=""))
+```
+
+The file named “biomsummary” has read counts for each sample. Email me (Ivan.Vujkovic-Cvijin at csmc.edu) this file before the next class!
+
+
 04/09/2023 (12) Microbiome analysis I  
 04/16/2023 (13) Microbiome analysis II  
