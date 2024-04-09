@@ -186,4 +186,7 @@ The file named “biomsummary” has read counts for each sample. Email me (Ivan
 
 
 04/09/2023 (12) Microbiome analysis I  
+
+[Metadata and R scripts](https://cedars.box.com/s/xldgsobqjkxmeqqda4tmicv7272rmv1k)
+
 04/16/2023 (13) Microbiome analysis II  
