@@ -189,4 +189,6 @@ The file named “biomsummary” has read counts for each sample. Email me (Ivan
 
 [Metadata and R scripts](https://cedars.box.com/s/xldgsobqjkxmeqqda4tmicv7272rmv1k)
 
+[Assignment due night of 4/15/2023](https://github.com/Junkdnalab/acg_2024/blob/main/assignments/homework_microbiome_part2.docx)
+
 04/16/2023 (13) Microbiome analysis II  
