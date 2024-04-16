@@ -166,7 +166,7 @@ Which would you like to update?
 select `1`: All
 
 
-04/02/2023 (11) Introduction to microbiome analysis 
+04/02/2023 (11) [Introduction to microbiome analysis](https://github.com/Junkdnalab/acg_2024/blob/main/files/240402_bioinf_lec1b.pdf)
 
 Assignment:
 Read the [Dada2 tutorial](https://benjjneb.github.io/dada2/tutorial.html), and instead of performing it on the dataset described in the tutorial, perform it on the [following dataset](https://cedars.box.com/s/e1o0uvlu946ezug04u2aeshep6e4zlvc) all the way up to and including section “Assign taxonomy”.
@@ -185,10 +185,10 @@ write.csv(taxa, paste(outpath,"/taxa.csv",sep=""))
 The file named “biomsummary” has read counts for each sample. Email me (Ivan.Vujkovic-Cvijin at csmc.edu) this file before the next class!
 
 
-04/09/2023 (12) Microbiome analysis I  
+04/09/2023 (12) [Microbiome analysis I](https://github.com/Junkdnalab/acg_2024/blob/main/files/240409_bioinf%20lec2.pdf)
 
 [Metadata and R scripts](https://cedars.box.com/s/xldgsobqjkxmeqqda4tmicv7272rmv1k)
 
 [Assignment due night of 4/15/2023](https://github.com/Junkdnalab/acg_2024/blob/main/assignments/homework_microbiome_part2.docx)
 
-04/16/2023 (13) Microbiome analysis II  
+04/16/2023 (13) [Microbiome analysis II](https://github.com/Junkdnalab/acg_2024/blob/main/files/240409_bioinf%20lec2.pdf)
