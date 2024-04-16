@@ -194,3 +194,5 @@ The file named “biomsummary” has read counts for each sample. Email me (Ivan
 04/16/2023 (13) Microbiome analysis II [(slides)](https://github.com/Junkdnalab/acg_2024/blob/main/files/240409_bioinf%20lec2.pdf)
 
 [R code](https://github.com/Junkdnalab/acg_2024/blob/main/files/CSMC-BMS_16S-analysis%20basics.R)
+
+![bayesian](https://xkcd.com/1132)
