@@ -195,4 +195,6 @@ The file named “biomsummary” has read counts for each sample. Email me (Ivan
 
 [R code](https://github.com/Junkdnalab/acg_2024/blob/main/files/CSMC-BMS_16S-analysis%20basics.R)
 
+[Assignment due 4/21](https://github.com/Junkdnalab/acg_2024/blob/main/assignments/homework_microbiome_part3.docx)
+
 ![bayesian](https://imgs.xkcd.com/comics/frequentists_vs_bayesians.png)
